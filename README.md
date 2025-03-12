@@ -42,7 +42,7 @@ This project aims to analyze global population trends, identify key factors infl
 - **Urbanization vs. Population Growth** study.
 
 ### Sample Data Visualization
-![Population Growth](https://www.example.com/sample-graph.png) *(Replace with actual graph)*
+![Population Growth](Population_Graph.png) 
 
 ---
 ## 🤖 Machine Learning & Prediction
